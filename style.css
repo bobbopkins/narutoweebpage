@@ -1,0 +1,21 @@
+body {
+	background-color: rgb(255, 153, 0);
+	font-family: comic sans ms;
+	color: black;
+	text-align: center;
+}
+
+.arial-font {
+	font-family: arial
+}
+
+button {
+	font-family: comic sans ms
+	color: black;
+	padding: .5px;
+	background-color: silver;
+	border-radius: 15%;
+	border: solid;
+	border-color: blue;
+	border-width: 10px;
+}
